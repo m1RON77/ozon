@@ -1,0 +1,231 @@
+.back {
+    background-color: rgb(233, 233, 233);
+    width: 40px;
+    height: 20px;
+    margin-top: 7px;
+    border-radius: 10px;
+}
+
+.text {
+    margin-left: 7px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+    font-size: 14px;
+}
+
+.image {
+    width: 17px;
+    margin-top: 5px;
+}
+
+.text-2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 3px;
+    margin-left: 5px;
+}
+
+.text-3 {
+    color: rgb(40, 72, 255);
+    cursor: pointer;
+}
+
+.back-2 {
+    background-color: rgb(218, 230, 252);
+    width: 140px;
+    border-radius: 10px;
+}
+
+.text-4 {
+    color: rgb(85, 84, 84);
+    margin-left: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text-5 {
+    font-size: 14px;
+    transition: 0.3s;
+    cursor: pointer;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text-5:hover {
+    color: rgb(40, 72, 255);
+}
+
+.back-3 {
+    background-color: rgb(40, 72, 255);
+    width: auto;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+    height: 40px;
+}
+
+.back-3:hover {
+    background-color: rgb(35, 60, 206);
+}
+
+.icon-1 {
+    width: 20px;
+    margin-top: 9px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    float: left;
+}
+
+.text-6 {
+    margin-left: 40px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 10px;
+    margin-top: 4px;
+}
+
+.input-1 {
+    width: 480px;
+    height: 33px;
+    border-radius: 10px;
+    border: none;
+    float: left;
+}
+
+.input-1:focus {
+    outline: none;
+}
+
+.back-4 {
+    background-color: rgb(233, 233, 233);
+    width: 74px;
+    height: 35px;
+    float: left;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.rull-1 {
+    border: 2px solid rgb(40, 72, 255);
+    border-radius: 10px;
+    width: 640px;
+    height: 40px;
+    margin-top: 13px;
+}
+
+.text-7 {
+    color: grey;
+    margin-top: 4px;
+    margin-left: 8px;
+    transition: 0.3s;
+    float: left;
+}
+
+.text-7:hover {
+    color: rgb(35, 60, 206);
+}
+
+.img {
+    margin-top: 11px;
+    margin-left: 4px;
+    width: 12px;
+}
+
+.back-5 {
+    background-color: rgb(40, 72, 255);
+    height: 37px;
+    width: 80px;
+    margin-left: 560px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.back-5:hover {
+    background-color: rgb(35, 60, 206);
+}
+
+.img-2 {
+    width: 25px;
+    margin-left: 27px;
+    margin-top: 4px;
+}
+
+.img-3 {
+    width: 30px;
+    height: 30px;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.text-8 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0px;
+    margin-left: 42px;
+    transition: 0.2s;
+}
+
+.text-8:hover {
+    color: rgb(35, 60, 206);
+}
+
+.img-4 {
+    width: 30px;
+    height: 30px;
+    margin-left: 68px;
+    margin-top: 5px;
+}
+
+.img-5 {
+    width: 30px;
+    height: 30px;
+    margin-left: 56px;
+    margin-top: 5px;
+}
+
+.img-6 {
+    width: 20px;
+    margin-left: 5px;
+    float: left;
+}
+
+.text-9 {
+    margin-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transform: 0.3s;
+}
+
+.text-9:hover {
+    color: rgb(35, 60, 206);
+}
+
+.img-7 {
+    width: 15px;
+    margin-left: 5px;
+    float: left;
+}
+
+.text-10 {
+    margin-left: 15px;
+    font-size: 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    margin-top: 15px;
+    letter-spacing: 1.14px;
+    margin-bottom: 50px;
+}
+
+.img-8 {
+    border-radius: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.img-9 {
+    border-radius: 10px;
+    margin-left: 8px;
+}
+
+.text-11 {
+    margin-left: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(43, 43, 43);
+}
